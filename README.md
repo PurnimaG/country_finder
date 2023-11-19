@@ -2,7 +2,8 @@
 # React Country Search Application
 This is a React application that implements a country search. The application allows users to search for country by its official name. The application also provides details of the selected country from the search autocomplete suggestions.
 
-![](https://hrcdn.net/s3_pub/istreet-assets/DyxnWZZfQtoe9d6OG9hEwA/Screen%20Recording%202020-06-25%20at%209.45.30%20PM.gif)
+![ezgif com-optimize](https://github.com/PurnimaG/country_finder/assets/9799734/c2a4db2b-e2d8-41a6-8af3-6a3fba06c5ac)
+
 
 
 ## Functionality
