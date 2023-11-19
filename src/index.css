@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    @apply h-full ;
+}
+body {
+    @apply h-full;
+}
+
+#root {
+    @apply h-full;
+}
+main {
+    @apply h-full;
+  }
+
+.search_input {
+    @apply sm:block w-full rounded-md border border-gray-200 bg-white py-4 pl-12 pr-12 text-lg shadow-lg font-medium focus:border-gray-500 focus:outline-none focus:ring-0;
+}
+
